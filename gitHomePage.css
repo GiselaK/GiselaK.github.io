@@ -1,0 +1,21 @@
+.active{
+  visibility: visible;
+}
+.unactive{
+  visibility: hidden;
+}
+#githuburl{
+  font-size: 30px;
+}
+#name{
+  font-size: 75px;
+}
+.section{
+  position: absolute;
+  font-size: 20px;
+  left: 10%;
+}
+#projects{
+  position: absolute;
+  right: 75%;
+}
